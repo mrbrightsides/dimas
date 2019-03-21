@@ -1,0 +1,10 @@
+<html>
+<head>
+ <title>header</title>
+</head>
+<body bgcolor="blue">
+	<center>
+		<h1>PT CEK TOKO SEBELAH</h1>
+	</center>
+</body>
+</html>

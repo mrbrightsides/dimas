@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>footer</title>
+</head>
+<body bgcolor="blue">
+	<center>
+		<h3> Reynaldi Anugrah Pratama</h3>
+	</center>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>content</title>
+</head>
+<body bgcolor="blue">
+<table border="2" bgcolor="yellow"
+<tr>
+	<td width="10px" rowspan="3">
+<a href="https://www.ikea.co.id/in/galeri/selaras-dengan-seni" target="blank">
+<img src="Kursi.png" width="300px" hight="600px">
+	<td width="800px"> Nama : Kursi berlengan REMSTA</td>
+<tr>
+	<td width="800px"> Harga : Rp.2.495.000-,</td>
+<tr>
+	<td width="800px">Selaras dengan seni.
+Inilah keluarga yang menyukai musik di mana ruang keluarganya mencerminkan kreativitas mereka. Dan meski sedikit berisik, mereka berhasil menemukan alurnya. Sebuah sofa dengan penyimpanan dan kabinet display untuk membantu menghindari kekacauan.</td> 
+</tr>
+</a>
+</body>
+
+
+	<td width="10px" rowspan="3">
+<a href="https://www.ikea.co.id/in/galeri/bekerja-di-mana-pun-anda-inginkan/"_blank">
+<img src="Meja.png" width="300px" hight="600px">
+	<td width="800px"> Nama : Meja LILLÅSEN</td>
+<tr>
+	<td width="800px"> Harga : Rp.2.499.000-,</td>
+<tr>
+	<td width="800px">Bekerja di mana pun Anda inginkan.
+Pindahkan ruang kerja Anda ke area ruang keluarga dengan menempatkan sebuah meja kerja berbahan kayu yang tahan lama dan berbentuk ramping sehingga pas untuk diletakkan pada semua ukuran ruangan di rumah Anda. Dengan tambahan lampu lantai yang dapat berfungsi ganda, yaitu sebagai lampu kerja dan juga sebagai lampu baca untuk sofa 3 dudukan yang berada di area sebelahnya. Kini Anda dapat menyelesaikan berbagai tugas atau pekerjaan sambil mendengarkan cerita baru dari anggota keluarga yang lain.</td>
+</a>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<html>
+<head>
+ <title>sidebar</title>
+</head>
+<body bgcolor="yellow">
+<li><a href="/home/">HOME</a></li>
+<li><a href="/profil/">PROFIL</a></li>
+<li><a href="/contact us/">CONTACT US</a><ul></li>
+</body>
+</html>
